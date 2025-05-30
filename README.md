@@ -95,5 +95,5 @@ Feel free to open issues or submit pull requests. Suggestions and improvements a
 ## 👩‍💻 Author
 
 **CodeBag Team**  
-Instagram: [@codebag](https://instagram.com/codebag)  
-YouTube: [Code Bag](https://youtube.com/@codebag)
+Instagram: [@codebag](https://www.instagram.com/code__bag/)  
+YouTube: [Code Bag](https://www.youtube.com/@codebag4038/videos))
