@@ -82,7 +82,7 @@ All logs are stored in the `logs/` folder with a filename based on the current d
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Codebag License.
 
 ---
 
@@ -96,4 +96,4 @@ Feel free to open issues or submit pull requests. Suggestions and improvements a
 
 **CodeBag Team**  
 Instagram: [@codebag](https://www.instagram.com/code__bag/)  
-YouTube: [Code Bag](https://www.youtube.com/@codebag4038/videos))
+YouTube: [Code Bag](https://www.youtube.com/@codebag4038/videos)
